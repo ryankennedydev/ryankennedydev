@@ -12,7 +12,7 @@
 
 ###
 
-<h1 border-radius = 5px  border = 5px black background: black align="left">USER: KENNEDY</h1>
+<h1 align="left">USER: KENNEDY</h1>
 
 <div align="right">
   <img height="200" src="https://i.pinimg.com/originals/da/09/9f/da099f245910b93299ed332876489447.gif"  />

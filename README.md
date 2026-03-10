@@ -12,8 +12,8 @@
 
 ###
 
-<h1 align="left">USER</h1>
-<h2 align="left">user: K E N N E D Y</h2>
+<h2 align="left">USER</h2>
+<h1 align="left">K E N N E D Y</h1>
 
 ###
 

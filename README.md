@@ -2,7 +2,7 @@
 
 💻 Computer Science student
 
-🐍 Learning Python programming
+📚 Learning Python programming, HTML & CSS
 
 🤖 Interested in Artificial Intelligence
 

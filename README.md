@@ -1,6 +1,6 @@
 👋 Hello, I'm Ryan
 
-💻 Systems Information student
+💻 Computer Science student
 
 🐍 Learning Python programming
 

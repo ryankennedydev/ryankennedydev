@@ -14,6 +14,12 @@
 ![Discord Bot](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
+🌎 Languages  
+
+![Portuguese](https://img.shields.io/badge/Portuguese_BR-Native-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+
 🚀 Technologies I'm learning  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

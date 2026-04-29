@@ -18,6 +18,7 @@
 
 ![Portuguese](https://img.shields.io/badge/Portuguese_BR-Native-009C3B?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![English](https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white)
+![German](https://img.shields.io/badge/German-basic-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 
 🚀 Technologies I'm learning  

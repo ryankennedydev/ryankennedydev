@@ -2,6 +2,7 @@
 
 💻 Computer Science student  
 📚 Learning Marching, Python & C# 
+
 🤖 Interested in Artificial Intelligence  
 
 

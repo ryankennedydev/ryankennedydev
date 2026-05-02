@@ -1,7 +1,7 @@
 👋 Hello, I'm Ryan  
 
 💻 Computer Science student  
-📚 Learning Marching, Python & C# 
+📚 Learning
 
 🤖 Interested in Artificial Intelligence  
 

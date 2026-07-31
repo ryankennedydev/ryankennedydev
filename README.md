@@ -1,16 +1,16 @@
-# 👋 Hello, I'm Ryan
+# 👋 Welcome to my profile
 
-🎓 Computer Science student passionate about technology and problem solving  
+🎓 Computer Science student
+
 ☁️ Currently studying AWS Cloud and cloud computing fundamentals  
 💻 Learning software development, web technologies, and computer science concepts  
-🚀 Interested in Cloud Computing, AI, Cybersecurity, and Full Stack Development  
+🚀 Interested in AI & Cybersecurity
+## SKILLS
+-REACT 
+-JS
+-PY
+-HTML/CSS
 
-## 📚 Currently Learning
-- AWS Cloud Practitioner
-- React & JavaScript
-- Python
-- Git & GitHub
-- Computer Science fundamentals
 
 ## 🎯 Goals
 - Build real-world projects

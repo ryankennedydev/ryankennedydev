@@ -75,8 +75,4 @@
 
 ---
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryankennedydev&color=00D9FF&style=for-the-badge)
-
-</div>

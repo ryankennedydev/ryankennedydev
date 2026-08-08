@@ -59,10 +59,10 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryankennedydev&theme=tokyonight&hide_border=true" />
 </div>
 
-> ⚠️ Replace `YOUR_USERNAME` with your actual GitHub username in the links above so the stats cards work.
+
 
 ---
 

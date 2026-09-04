@@ -2,49 +2,55 @@
 
 <img src="./neural-banner.svg" width="900" alt="Neural network banner"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ryan+%F0%9F%91%8B;Computer+Science+Student;Studying+AWS+Cloud+%E2%98%81%EF%B8%8F;Focused+on+AI+%26+Cybersecurity+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ryankennedydev&color=00E5FF&style=flat-square&label=Profile+views)
+
 </div>
 
 <br/>
 
-### `ryankennedy@neural-net ~ $ ./whoami.sh`
+## 👋 About Me
 
-<table>
-<tr>
-<td width="45%">
+<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/graph.svg" alt="activity graph"/>
 
-<img src="./ryan-neural-portrait.svg" width="100%" alt="Neural network portrait"/>
+- 🎓 Computer Science student
+- 💻 Learning software development, web technologies, and core CS concepts
+- 🔐 Focused on **Artificial Intelligence**
+- 🌱 Always building and shipping new projects
 
-</td>
-<td width="55%">
 
-<img src="./info-card.svg" width="100%" alt="Info card"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-### `ryankennedy@neural-net ~ $ cat about.md`
-
-- 💻 Independent developer & digital entrepreneur
-- 🛠️ Builds and sells digital products — SaaS tools, Telegram bots, landing pages
-- 🇧🇷 Focused on Brazilian Portuguese-language markets
-- 🚀 Self-directed, project-based — ships things end to end
-
----
-
-### `ryankennedy@neural-net ~ $ ls ./stack`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,react,html,css,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,python,html,css,mongodb,sqlite" />
 
 </div>
 
 ---
 
-### `ryankennedy@neural-net ~ $ top --sort=stats`
+## ☁️ Currently Exploring
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackaday&logoColor=red)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -59,14 +65,15 @@
 
 ---
 
-### `ryankennedy@neural-net ~ $ curl connect --me`
+## 🌐 Connect with Me
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryankennedydev)
 
 </div>
 
 <div align="center">
-<sub>$ process complete — connection established_</sub>
+<sub>Built with ☕ and curiosity.</sub>
 </div>

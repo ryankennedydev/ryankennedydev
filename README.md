@@ -28,7 +28,7 @@
 ### `ryan@neural-net ~ $ cat about.md`
 
 - 🎓 Computer Science student
-- ☁️ Studying always
+- ☁️ Always studying
 - 🧠 Focused on **Artificial Intelligence** and distributed systems
 - 🌱 Always training on something new
 

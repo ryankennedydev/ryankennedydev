@@ -44,12 +44,9 @@
 
 </div>
 
-<br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=ryankennedydev&color=00E5FF&style=flat-square&label=PROFILE+SIGNALS"
-  alt="Profile Views"
-/>
+
+
 
 </div>
 

@@ -1,86 +1,441 @@
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkNTgxYmVjMy00Y2JmLTQ5MjgtOTJjNi0zNGQ5ZDBhZDk0YTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaC8bvQdn60nq2NTmegbg6DoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4OGUxNzQ5NS00YjM3LTQ5YmUtOWQyYS0xYzMzOTE3MzQyYTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoRpyRd+AY90RKUfiSmm422AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggMoLtk3FowNztR3G12mZsEGmpBeg3AKwH1kcwvnMRVs6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJKSUqwbldSeji31Ft1YigYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDQTAeRzJK4eGGEas4v1CVAPAdkDBKN+Z15UF/7MJ/jB2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmQ1ODFiZWMzLTRjYmYtNDkyOC05MmM2LTM0ZDlkMGFkOTRhOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ4YWM4YjJmLTI0NGEtNDIzNC04ZDdmLTE0ZjE2YTRhMjVlZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAygu2TcWjA3O1HcbXaZmwQaakF6DcArAfWRzC+cxFWzqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg1CJN6rwY/8/zyc5NRqE63myeBlkakDVECE824kNaE52iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggA9yPsf6rR4U8z42JcQx6DO1+84pI353SXlsqu52wLs10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQG6oX9wPS2dnIsHLRh0SEA/3y1M4yLY36wPxL532V+aAs6EmHxbTBQxtUktmik6bLXghYLUbk9/XOMiX8EgiNk0=</c2pa:manifest></metadata>
+<svg width="900" height="260" viewBox="0 0 900 260"
+xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#0d1520"/>
-      <stop offset="100%" stop-color="#050709"/>
+
+    <!-- Background -->
+    <radialGradient id="bg" cx="50%" cy="45%" r="85%">
+      <stop offset="0%" stop-color="#101e2d"/>
+      <stop offset="45%" stop-color="#08111a"/>
+      <stop offset="100%" stop-color="#030507"/>
     </radialGradient>
+
+    <!-- Cyan glow -->
     <linearGradient id="nodeGlow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00E5FF"/>
-      <stop offset="100%" stop-color="#0077FF"/>
+      <stop offset="0%" stop-color="#7DF9FF"/>
+      <stop offset="45%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
     </linearGradient>
+
+    <!-- Data line -->
+    <linearGradient id="lineGradient">
+      <stop offset="0%" stop-color="#003B55"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#003B55"/>
+    </linearGradient>
+
+    <!-- Glow -->
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Strong glow -->
+    <filter id="strongGlow" x="-200%" y="-200%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="8" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path
+        d="M 40 0 L 0 0 0 40"
+        fill="none"
+        stroke="#00E5FF"
+        stroke-width="0.4"
+        opacity="0.08"/>
+    </pattern>
+
   </defs>
 
-  <rect width="900" height="220" fill="url(#bg)"/>
 
-  <!-- connections -->
-  <g stroke="#00E5FF" stroke-width="1" opacity="0.35">
-    <line x1="90" y1="60" x2="290" y2="45"/>
-    <line x1="90" y1="60" x2="290" y2="110"/>
-    <line x1="90" y1="60" x2="290" y2="175"/>
-    <line x1="90" y1="150" x2="290" y2="45"/>
-    <line x1="90" y1="150" x2="290" y2="110"/>
-    <line x1="90" y1="150" x2="290" y2="175"/>
+  <!-- BACKGROUND -->
 
-    <line x1="290" y1="45" x2="490" y2="70"/>
-    <line x1="290" y1="45" x2="490" y2="150"/>
-    <line x1="290" y1="110" x2="490" y2="70"/>
-    <line x1="290" y1="110" x2="490" y2="150"/>
-    <line x1="290" y1="175" x2="490" y2="70"/>
-    <line x1="290" y1="175" x2="490" y2="150"/>
+  <rect width="900" height="260" fill="url(#bg)"/>
 
-    <line x1="490" y1="70" x2="690" y2="55"/>
-    <line x1="490" y1="70" x2="690" y2="110"/>
-    <line x1="490" y1="70" x2="690" y2="165"/>
-    <line x1="490" y1="150" x2="690" y2="55"/>
-    <line x1="490" y1="150" x2="690" y2="110"/>
-    <line x1="490" y1="150" x2="690" y2="165"/>
+  <rect width="900" height="260" fill="url(#grid)"/>
 
-    <line x1="690" y1="55" x2="820" y2="110"/>
-    <line x1="690" y1="110" x2="820" y2="110"/>
-    <line x1="690" y1="165" x2="820" y2="110"/>
 
-    <animate attributeName="opacity" values="0.15;0.5;0.15" dur="4s" repeatCount="indefinite"/>
+  <!-- AMBIENT LIGHT -->
+
+  <circle
+    cx="450"
+    cy="120"
+    r="170"
+    fill="#00E5FF"
+    opacity="0.025">
+
+    <animate
+      attributeName="r"
+      values="160;190;160"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- PARTICLES -->
+
+  <g fill="#00E5FF" opacity="0.45">
+
+    <circle cx="120" cy="35" r="1.2">
+      <animate attributeName="opacity"
+      values="0.1;0.8;0.1"
+      dur="3s"
+      repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="210" cy="210" r="1">
+      <animate attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="4s"
+      repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="380" cy="30" r="1.3">
+      <animate attributeName="opacity"
+      values="0.1;0.9;0.1"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="570" cy="220" r="1">
+      <animate attributeName="opacity"
+      values="0.1;0.8;0.1"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="760" cy="40" r="1.3">
+      <animate attributeName="opacity"
+      values="0.1;1;0.1"
+      dur="4s"
+      repeatCount="indefinite"/>
+    </circle>
+
   </g>
 
-  <!-- pulse traveling along a signal path -->
-  <circle r="3" fill="#ffffff" filter="url(#glow)">
-    <animateMotion dur="2.6s" repeatCount="indefinite"
-      path="M90,60 L290,110 L490,70 L690,110 L820,110"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="3" fill="#ffffff" filter="url(#glow)">
-    <animateMotion dur="3.1s" begin="0.8s" repeatCount="indefinite"
-      path="M90,150 L290,175 L490,150 L690,165 L820,110"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="3.1s" begin="0.8s" repeatCount="indefinite"/>
-  </circle>
 
-  <!-- nodes -->
+  <!-- CONNECTIONS -->
+
+  <g
+    stroke="url(#lineGradient)"
+    stroke-width="1.2"
+    opacity="0.38">
+
+    <!-- Layer 1 -->
+
+    <line x1="90" y1="75" x2="260" y2="55"/>
+    <line x1="90" y1="75" x2="260" y2="120"/>
+    <line x1="90" y1="75" x2="260" y2="185"/>
+
+    <line x1="90" y1="170" x2="260" y2="55"/>
+    <line x1="90" y1="170" x2="260" y2="120"/>
+    <line x1="90" y1="170" x2="260" y2="185"/>
+
+
+    <!-- Layer 2 -->
+
+    <line x1="260" y1="55" x2="450" y2="85"/>
+    <line x1="260" y1="55" x2="450" y2="165"/>
+
+    <line x1="260" y1="120" x2="450" y2="85"/>
+    <line x1="260" y1="120" x2="450" y2="165"/>
+
+    <line x1="260" y1="185" x2="450" y2="85"/>
+    <line x1="260" y1="185" x2="450" y2="165"/>
+
+
+    <!-- Layer 3 -->
+
+    <line x1="450" y1="85" x2="650" y2="60"/>
+    <line x1="450" y1="85" x2="650" y2="120"/>
+    <line x1="450" y1="85" x2="650" y2="180"/>
+
+    <line x1="450" y1="165" x2="650" y2="60"/>
+    <line x1="450" y1="165" x2="650" y2="120"/>
+    <line x1="450" y1="165" x2="650" y2="180"/>
+
+
+    <!-- OUTPUT -->
+
+    <line x1="650" y1="60" x2="810" y2="120"/>
+    <line x1="650" y1="120" x2="810" y2="120"/>
+    <line x1="650" y1="180" x2="810" y2="120"/>
+
+  </g>
+
+
+  <!-- ANIMATED SIGNALS -->
+
+  <g fill="#FFFFFF" filter="url(#strongGlow)">
+
+    <circle r="3">
+
+      <animateMotion
+        dur="3s"
+        repeatCount="indefinite"
+
+        path="
+        M90,75
+        L260,120
+        L450,85
+        L650,120
+        L810,120"/>
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle r="2.5">
+
+      <animateMotion
+        dur="3.8s"
+        begin="1s"
+        repeatCount="indefinite"
+
+        path="
+        M90,170
+        L260,185
+        L450,165
+        L650,180
+        L810,120"/>
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        dur="3.8s"
+        begin="1s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- INPUT NODES -->
+
   <g filter="url(#glow)">
-    <circle cx="90" cy="60" r="7" fill="url(#nodeGlow)"><animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/></circle>
-    <circle cx="90" cy="150" r="7" fill="url(#nodeGlow)"><animate attributeName="r" values="6;8;6" dur="2.3s" repeatCount="indefinite"/></circle>
 
-    <circle cx="290" cy="45" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="290" cy="110" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="290" cy="175" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="75" r="8" fill="url(#nodeGlow)">
+      <animate
+        attributeName="r"
+        values="7;10;7"
+        dur="2s"
+        repeatCount="indefinite"/>
+    </circle>
 
-    <circle cx="490" cy="70" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="490" cy="150" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="170" r="8" fill="url(#nodeGlow)">
+      <animate
+        attributeName="r"
+        values="7;10;7"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+    </circle>
 
-    <circle cx="690" cy="55" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="1.7s" repeatCount="indefinite"/></circle>
-    <circle cx="690" cy="110" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="2.2s" repeatCount="indefinite"/></circle>
-    <circle cx="690" cy="165" r="6" fill="url(#nodeGlow)"><animate attributeName="r" values="5;7;5" dur="1.95s" repeatCount="indefinite"/></circle>
-
-    <circle cx="820" cy="110" r="8" fill="url(#nodeGlow)"><animate attributeName="r" values="7;9;7" dur="1.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="450" y="205" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#00E5FF" opacity="0.85">
-    &lt; building intelligent systems /&gt;
+
+  <!-- HIDDEN LAYER 1 -->
+
+  <g fill="url(#nodeGlow)" filter="url(#glow)">
+
+    <circle cx="260" cy="55" r="6"/>
+    <circle cx="260" cy="120" r="7"/>
+    <circle cx="260" cy="185" r="6"/>
+
+  </g>
+
+
+  <!-- CENTRAL AI CORE -->
+
+  <g filter="url(#strongGlow)">
+
+    <!-- Outer pulse -->
+
+    <circle
+      cx="450"
+      cy="125"
+      r="32"
+      fill="none"
+      stroke="#00E5FF"
+      stroke-width="1"
+      opacity="0.35">
+
+      <animate
+        attributeName="r"
+        values="28;40;28"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="0.6;0;0.6"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <!-- Core -->
+
+    <circle
+      cx="450"
+      cy="125"
+      r="16"
+      fill="#06131C"
+      stroke="#00E5FF"
+      stroke-width="2"/>
+
+    <circle
+      cx="450"
+      cy="125"
+      r="8"
+      fill="url(#nodeGlow)">
+
+      <animate
+        attributeName="r"
+        values="7;10;7"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- HIDDEN LAYER 2 -->
+
+  <g fill="url(#nodeGlow)" filter="url(#glow)">
+
+    <circle cx="450" cy="85" r="6"/>
+    <circle cx="450" cy="165" r="6"/>
+
+  </g>
+
+
+  <!-- OUTPUT LAYER -->
+
+  <g fill="url(#nodeGlow)" filter="url(#glow)">
+
+    <circle cx="650" cy="60" r="6"/>
+    <circle cx="650" cy="120" r="7"/>
+    <circle cx="650" cy="180" r="6"/>
+
+  </g>
+
+
+  <!-- FINAL NODE -->
+
+  <g filter="url(#strongGlow)">
+
+    <!-- Radar rings -->
+
+    <circle
+      cx="810"
+      cy="120"
+      r="28"
+      fill="none"
+      stroke="#00E5FF"
+      stroke-width="1"
+      opacity="0.2">
+
+      <animate
+        attributeName="r"
+        values="22;38"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="0.6;0"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <!-- Main output -->
+
+    <circle
+      cx="810"
+      cy="120"
+      r="13"
+      fill="#07151E"
+      stroke="#00E5FF"
+      stroke-width="2"/>
+
+    <circle
+      cx="810"
+      cy="120"
+      r="7"
+      fill="url(#nodeGlow)">
+
+      <animate
+        attributeName="r"
+        values="6;9;6"
+        dur="1.4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- LABELS -->
+
+  <g
+    font-family="Fira Code, monospace"
+    font-size="9"
+    fill="#00E5FF"
+    opacity="0.45">
+
+    <text x="55" y="45">INPUT</text>
+
+    <text x="215" y="35">LAYER_01</text>
+
+    <text x="410" y="55">NEURAL_CORE</text>
+
+    <text x="610" y="35">LAYER_02</text>
+
+    <text x="775" y="85">OUTPUT</text>
+
+  </g>
+
+
+  <!-- FOOTER -->
+
+  <text
+    x="450"
+    y="238"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="14"
+    letter-spacing="1"
+    fill="#00E5FF"
+    opacity="0.85">
+
+    &lt; BUILDING INTELLIGENT SYSTEMS /&gt;
+
+    <animate
+      attributeName="opacity"
+      values="0.45;1;0.45"
+      dur="4s"
+      repeatCount="indefinite"/>
+
   </text>
+
 </svg>

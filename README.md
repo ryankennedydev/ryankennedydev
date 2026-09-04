@@ -6,7 +6,7 @@
 
 <br/>
 
-### `ryan@neural-net ~ $ ./whoami.sh`
+### `ryankennedy@neural-net ~ $ ./whoami.sh`
 
 <table>
 <tr>
@@ -25,26 +25,26 @@
 
 ---
 
-### `ryan@neural-net ~ $ cat about.md`
+### `ryankennedy@neural-net ~ $ cat about.md`
 
-- 🎓 Computer Science student
-- ☁️ Always studying
-- 🧠 Focused on **Artificial Intelligence** and distributed systems
-- 🌱 Always training on something new
+- 💻 Independent developer & digital entrepreneur
+- 🛠️ Builds and sells digital products — SaaS tools, Telegram bots, landing pages
+- 🇧🇷 Focused on Brazilian Portuguese-language markets
+- 🚀 Self-directed, project-based — ships things end to end
 
 ---
 
-### `ryan@neural-net ~ $ ls ./stack`
+### `ryankennedy@neural-net ~ $ ls ./stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,python,html,css,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,react,html,css,mongodb,sqlite" />
 
 </div>
 
 ---
 
-### `ryan@neural-net ~ $ top --sort=stats`
+### `ryankennedy@neural-net ~ $ top --sort=stats`
 
 <div align="center">
 
@@ -59,11 +59,10 @@
 
 ---
 
-### `ryan@neural-net ~ $ curl connect --me`
+### `ryankennedy@neural-net ~ $ curl connect --me`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryankennedydev)
 
 </div>

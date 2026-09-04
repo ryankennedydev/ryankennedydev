@@ -28,8 +28,8 @@
 ### `ryan@neural-net ~ $ cat about.md`
 
 - 🎓 Computer Science student
-- ☁️ Studying **AWS Cloud** and cloud computing fundamentals
-- 🧠 Focused on **Artificial Intelligence**, **Cybersecurity**, and distributed systems
+- ☁️ Studying always
+- 🧠 Focused on **Artificial Intelligence** and distributed systems
 - 🌱 Always training on something new
 
 ---

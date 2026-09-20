@@ -30,7 +30,7 @@
 
     <text x="24" y="142" font-size="14">$ cat stack.json</text>
     <text x="34" y="164" font-size="12" fill="#e6f7ff">"stack": [React, JS, Node, Python, HTML/CSS]</text>
-    <text x="34" y="184" font-size="12" fill="#e6f7ff">"db": [MongoDB, SQLite]</text>
+    <text x="34" y="184" font-size="12" fill="#e6f7ff">"db": [MongoDB, SQL]</text>
     <text x="34" y="204" font-size="12" fill="#e6f7ff">"focus": ["Artificial Intelligence"]</text>
 
     <text x="24" y="236" font-size="14">$ ping curiosity</text>

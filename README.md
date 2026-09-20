@@ -11,11 +11,11 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/ryankennedyo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
 </a>
 <a href="https://github.com/ryankennedydev">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" height="32"/>
 </a>
 
 </div>
@@ -49,7 +49,15 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,python,html,css,mongodb,sqlite&theme=dark" alt="Technology Stack"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="32"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="32"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="32"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="32"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="32"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="32"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" height="32"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="32"/>
 
 </div>
 
@@ -59,8 +67,7 @@
 
 ### ☁️ Currently Exploring
 
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=flat&logo=openai&logoColor=white" alt="AI" height="32"/>
 
 </div>
 

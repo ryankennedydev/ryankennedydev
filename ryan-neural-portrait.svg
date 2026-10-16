@@ -1,746 +1,260 @@
-<svg
-  width="420"
-  height="420"
-  viewBox="0 0 420 420"
-  xmlns="http://www.w3.org/2000/svg"
- xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNjdhY2RhOC0yZTFmLTRmNWMtOGY4OC1mNGJkMmQ1ZTY3MGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPzeN2LQKI2rA2kNqetrqIUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5NjY4N2NkMi03YWFiLTRmNjEtOGI3Zi0zNjRmZWJkYWM5YWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoLUU9wvE13LVEzhdujOiimQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggrQWPNPEKoCIcd9H9XrDZoIJ1hotb9liqtLLHPisMzGikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAeDkKtzrZR8FaaLwCRB7pwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCB08JVwKEzD9hACm+qfUtzZl6SRxNB8rtxkWD/toV3ArGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBifZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY2N2FjZGE4LTJlMWYtNGY1Yy04Zjg4LWY0YmQyZDVlNjcwZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJmOTMxNWYyLWNiZjYtNDdmMy05MGE2LWIzM2U5YWNiNjgxYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCtBY808QqgIhx30f1esNmggnWGi1v2WKq0ssc+KwzMaKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggCr0uaXpisczeraSAk0oayyrS0wqz3Ronv6arIDdykniiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggwU7/fjLuPFSuTcT3CRTs+yKBp0u1CCzf5Djej4aF6tx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKyQisfcGuvsmrzud5ERCj9xxYgq/RHUCJQbwMZr/IzD+bgipVXxmKWEaWHuu5zDBNkychlXOk1Gg4kYOSWZRJA=</c2pa:manifest></metadata>
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0YWZkYzkwOC1jMTc1LTQ2ZGQtODZjNi1mY2UwOTQwOGQ1OWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEm5qQaGGfV3myukytvCGfcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphODgzMzVjYS00NWQxLTRkMzEtOWUwZi1kNzAyZjBlYzU3YzlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoi5Ia0kwgXv1YbM9aE/2AEQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggycfphyFgRVJ9RrUtsPpWllk05asp4L7bOEQegPZnFp6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHWkLAOr/IM6s5tDgXJ2iy8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAn4W5mL4Mx7Ir+b49poI7eyHRrkXFRSc7CN8178bdBGWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRhZmRjOTA4LWMxNzUtNDZkZC04NmM2LWZjZTA5NDA4ZDU5ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjM3ZDk5YzY1LTIyZmMtNDVmOS1iMmI2LTdhNzczNWE0YzFmOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDJx+mHIWBFUn1GtS2w+laWWTTlqyngvts4RB6A9mcWnqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggaJypD6VU2OMUvPZ+V6Qq+is9QzSVnWkB0ASfBuxlnTCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg5Jap1t0nvBZyTS0ArrEIfT+XQ+7CoI6pC8B9ZWPnQV10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHutAqu0YyArpUwbGngA4bp1fJ24ylJ3urfPOE6J+DkEmzlTZXBpm50bLS7tImPTK3uUp1Pgr3KbINvzgEtRgGs=</c2pa:manifest></metadata>
+  <title id="t">RYAN KENNEDY — Identity Scan</title>
+  <desc id="d">Silhueta de uma cabeça e ombros desenhada com nós e conexões de rede neural. Dentro da cabeça, neurônios conectados acendem conforme uma linha de escaneamento desce.</desc>
+
+  <style>
+    /* ===== TOKENS (mesma paleta do banner RYAN.DEV) ===== */
+    svg {
+      --c-bg-0:#0d1626; --c-bg-1:#070d18; --c-bg-2:#030507;
+      --c-accent:#00E5FF; --c-accent-hi:#7DF9FF; --c-violet:#B06CFF;
+      --c-text-muted:#8FEFFF; --c-ok:#3CFF7A; --c-signal:#FFFFFF; --c-surface:#06131C;
+      --font-mono:'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      --scan:5.0s;
+    }
+    .grid    { stroke:var(--c-accent); stroke-width:.5; opacity:.07; fill:none }
+    .frame   { fill:none; stroke:url(#frame); stroke-width:1.4 }
+    .bracket { stroke:var(--c-accent); stroke-width:1.6; fill:none; opacity:.75 }
+    .ring    { fill:none; stroke:var(--c-accent); stroke-width:.7; opacity:.18; transform-box:fill-box; transform-origin:center }
+    .link    { stroke:url(#vert); stroke-width:1; opacity:.55; fill:none }
+    .link.faint { opacity:.18 }
+    .outline path { stroke:url(#vert); stroke-width:1.3; opacity:.6; fill:none; stroke-linejoin:round }
+    .node    { fill:url(#vert); filter:url(#glow); transform-box:fill-box; transform-origin:center; opacity:.75;
+               animation:fire var(--scan) ease-out infinite }
+    .neuron  { filter:url(#glow-strong) }
+    .signal  { fill:var(--c-signal); filter:url(#glow-strong) }
+    .core-ring { fill:var(--c-surface); stroke:var(--c-accent); stroke-width:1.6 }
+    .pulse   { fill:none; stroke:var(--c-accent); stroke-width:1; transform-box:fill-box; transform-origin:center; animation:ripple 2.8s ease-out infinite }
+    .core    { fill:url(#vert); transform-box:fill-box; transform-origin:center; animation:breathe 1.6s ease-in-out infinite }
+    .scan    { stroke:var(--c-accent-hi); stroke-width:1; animation:scan var(--scan) linear infinite }
+    .scan-glow { fill:url(#scanfade); animation:scan var(--scan) linear infinite }
+    .spark   { fill:var(--c-accent); animation:twinkle 3s ease-in-out infinite }
+    .t       { font-family:var(--font-mono) }
+    .title   { font-size:15px; font-weight:700; letter-spacing:3px; fill:url(#title); filter:url(#glow-text) }
+    .sub     { font-size:8px; letter-spacing:2.5px; fill:var(--c-text-muted); opacity:.7 }
+    .status  { font-size:8px; fill:var(--c-text-muted); opacity:.7 }
+    .footer  { font-size:11px; letter-spacing:.5px; fill:var(--c-accent); animation:blink 3.5s ease-in-out infinite }
+
+    /* ===== MOTION ===== */
+    @keyframes fire    { 0%{transform:scale(1.7);opacity:1} 22%{transform:scale(1);opacity:.9} 100%{transform:scale(1);opacity:.7} }
+    @keyframes scan    { 0%{transform:translateY(0);opacity:0} 8%{opacity:.9} 92%{opacity:.9} 100%{transform:translateY(275px);opacity:0} }
+    @keyframes ripple  { 0%{transform:scale(.7);opacity:.6} 100%{transform:scale(1.8);opacity:0} }
+    @keyframes breathe { 0%,100%{transform:scale(.85)} 50%{transform:scale(1.25)} }
+    @keyframes twinkle { 0%,100%{opacity:.1} 50%{opacity:.9} }
+    @keyframes blink   { 0%,100%{opacity:.55} 50%{opacity:1} }
+    @keyframes spin    { to{transform:rotate(360deg)} }
+    .ring.a { stroke-dasharray:4 9; animation:spin 25s linear infinite }
+    .ring.b { stroke-dasharray:1 7;  animation:spin 18s linear infinite reverse }
+
+    @media (prefers-reduced-motion: reduce) {
+      .node,.pulse,.core,.scan,.scan-glow,.spark,.footer,.ring { animation:none }
+      .node{opacity:.9} .scan,.scan-glow,.signals{display:none}
+    }
+  </style>
 
   <defs>
-
-    <!-- BACKGROUND -->
-    <radialGradient id="background" cx="50%" cy="40%" r="80%">
-      <stop offset="0%" stop-color="#102435"/>
-      <stop offset="45%" stop-color="#08131D"/>
-      <stop offset="100%" stop-color="#030507"/>
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0" style="stop-color:var(--c-bg-0)"/>
+      <stop offset=".5" style="stop-color:var(--c-bg-1)"/>
+      <stop offset="1" style="stop-color:var(--c-bg-2)"/>
     </radialGradient>
-
-    <!-- NODE GRADIENT -->
-    <linearGradient id="cyanGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#B8FFFF"/>
-      <stop offset="35%" stop-color="#00E5FF"/>
-      <stop offset="100%" stop-color="#0066FF"/>
+    <!-- gradiente vertical em coordenadas absolutas: cabeça ciano -> ombros violeta (funciona em linhas verticais) -->
+    <linearGradient id="vert" gradientUnits="userSpaceOnUse" x1="0" y1="65" x2="0" y2="370">
+      <stop offset="0" style="stop-color:var(--c-accent-hi)"/>
+      <stop offset=".45" style="stop-color:var(--c-accent)"/>
+      <stop offset="1" style="stop-color:var(--c-violet)"/>
     </linearGradient>
-
-    <!-- CONNECTION GRADIENT -->
-    <linearGradient id="connectionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#003B55"/>
-      <stop offset="50%" stop-color="#00E5FF"/>
-      <stop offset="100%" stop-color="#003B55"/>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" style="stop-color:var(--c-accent-hi)"/>
+      <stop offset=".6" style="stop-color:var(--c-accent)"/>
+      <stop offset="1" style="stop-color:var(--c-violet)"/>
     </linearGradient>
-
-    <!-- TITLE GRADIENT -->
-    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7DF9FF"/>
-      <stop offset="50%" stop-color="#00E5FF"/>
-      <stop offset="100%" stop-color="#4DA8FF"/>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" style="stop-color:var(--c-accent);stop-opacity:.55"/>
+      <stop offset=".5" style="stop-color:var(--c-accent);stop-opacity:.1"/>
+      <stop offset="1" style="stop-color:var(--c-violet);stop-opacity:.55"/>
     </linearGradient>
-
-    <!-- FRAME GRADIENT -->
-    <linearGradient id="frameGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.55"/>
-      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.55"/>
+    <linearGradient id="scanfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" style="stop-color:var(--c-accent);stop-opacity:0"/>
+      <stop offset="1" style="stop-color:var(--c-accent);stop-opacity:.16"/>
     </linearGradient>
-
-    <!-- GRID -->
-    <pattern
-      id="grid"
-      width="25"
-      height="25"
-      patternUnits="userSpaceOnUse"
-    >
-      <path
-        d="M25 0 L0 0 L0 25"
-        fill="none"
-        stroke="#00E5FF"
-        stroke-width="0.5"
-        opacity="0.08"
-      />
-    </pattern>
-
-    <!-- NORMAL GLOW -->
     <filter id="glow" x="-150%" y="-150%" width="400%" height="400%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <!-- STRONG GLOW -->
-    <filter id="strongGlow" x="-200%" y="-200%" width="500%" height="500%">
-      <feGaussianBlur stdDeviation="7" result="blur1"/>
-      <feGaussianBlur stdDeviation="3" result="blur2"/>
-
-      <feMerge>
-        <feMergeNode in="blur1"/>
-        <feMergeNode in="blur2"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="glow-strong" x="-250%" y="-250%" width="600%" height="600%">
+      <feGaussianBlur stdDeviation="6" result="b1"/>
+      <feGaussianBlur stdDeviation="2.5" result="b2"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <!-- SOFT BLUR -->
-    <filter id="softBlur">
-      <feGaussianBlur stdDeviation="20"/>
+    <filter id="glow-text" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <!-- TEXT GLOW -->
-    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="1.8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+    <pattern id="gp" width="25" height="25" patternUnits="userSpaceOnUse"><path class="grid" d="M25 0H0V25"/></pattern>
   </defs>
 
-
-  <!-- ================================================= -->
-  <!-- BACKGROUND -->
-  <!-- ================================================= -->
-
-  <rect
-    width="420"
-    height="420"
-    fill="url(#background)"
-  />
-
-  <rect
-    width="420"
-    height="420"
-    fill="url(#grid)"
-  />
-
-  <!-- OUTER FRAME -->
-
-  <rect x="2" y="2" width="416" height="416" rx="10"
-    fill="none" stroke="url(#frameGradient)" stroke-width="1.4"/>
-
-  <!-- CORNER BRACKETS -->
-
-  <g stroke="#00E5FF" stroke-width="1.6" opacity="0.75" fill="none">
-    <path d="M14,30 L14,14 L30,14"/>
-    <path d="M406,30 L406,14 L390,14"/>
-    <path d="M14,390 L14,406 L30,406"/>
-    <path d="M406,390 L406,406 L390,406"/>
+  <!-- Fundo -->
+  <rect width="420" height="420" fill="url(#bg)"/>
+  <rect width="420" height="420" fill="url(#gp)"/>
+  <circle cx="210" cy="175" r="130" style="fill:var(--c-accent);opacity:.04;filter:url(#soft)"/>
+  <circle cx="210" cy="240" r="90" style="fill:var(--c-violet);opacity:.04;filter:url(#soft)"/>
+  <rect class="frame" x="2" y="2" width="416" height="416" rx="10"/>
+  <g class="bracket"><path d="M14 30V14H30"/><path d="M406 30V14H390"/><path d="M14 390V406H30"/><path d="M406 390V406H390"/></g>
+  <g>
+    <circle class="spark" style="animation-duration:3s;animation-delay:-0.0s" cx="55" cy="75" r="1.2"/>
+    <circle class="spark" style="animation-duration:4s;animation-delay:-0.7s" cx="365" cy="95" r="1.2"/>
+    <circle class="spark" style="animation-duration:2.8s;animation-delay:-1.4s" cx="80" cy="230" r="1.2"/>
+    <circle class="spark" style="animation-duration:3.5s;animation-delay:-2.0999999999999996s" cx="345" cy="250" r="1.2"/>
+    <circle class="spark" style="animation-duration:4.5s;animation-delay:-2.8s" cx="125" cy="45" r="1.2"/>
+    <circle class="spark" style="animation-duration:3.2s;animation-delay:-3.5s" cx="300" cy="55" r="1.2"/>
   </g>
 
+  <!-- Cabeçalho -->
+  <text class="t title" x="210" y="33" text-anchor="middle">RYAN KENNEDY</text>
+  <text class="t sub" x="210" y="47" text-anchor="middle">// IDENTITY SCAN</text>
 
-  <!-- AMBIENT LIGHT -->
+  <!-- Anéis holográficos -->
+  <circle class="ring a" cx="210" cy="165" r="105"/>
+  <circle class="ring b" cx="210" cy="165" r="88"/>
 
-  <circle
-    cx="210"
-    cy="175"
-    r="130"
-    fill="#00E5FF"
-    opacity="0.035"
-    filter="url(#softBlur)"
-  />
-
-  <circle
-    cx="210"
-    cy="175"
-    r="90"
-    fill="#0077FF"
-    opacity="0.025"
-    filter="url(#softBlur)"
-  />
-
-
-  <!-- ================================================= -->
-  <!-- FLOATING PARTICLES -->
-  <!-- ================================================= -->
-
-  <g fill="#00E5FF">
-
-    <circle cx="55" cy="75" r="1.2" opacity="0.4">
-      <animate
-        attributeName="opacity"
-        values="0.1;0.8;0.1"
-        dur="3s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="365" cy="95" r="1" opacity="0.4">
-      <animate
-        attributeName="opacity"
-        values="0.1;0.9;0.1"
-        dur="4s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="80" cy="230" r="1.3">
-      <animate
-        attributeName="opacity"
-        values="0.1;0.7;0.1"
-        dur="2.8s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="345" cy="250" r="1.2">
-      <animate
-        attributeName="opacity"
-        values="0.1;1;0.1"
-        dur="3.5s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="125" cy="45" r="1">
-      <animate
-        attributeName="opacity"
-        values="0.1;0.8;0.1"
-        dur="4.5s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="300" cy="55" r="1">
-      <animate
-        attributeName="opacity"
-        values="0.1;0.9;0.1"
-        dur="3.2s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
+  <!-- Conexões -->
+  <g class="outline">
+    <path d="M210,65 L175,78 L148,105 L132,145 L135,190 L150,230 L178,260 L210,280"/>
+    <path d="M210,65 L245,78 L272,105 L288,145 L285,190 L270,230 L242,260 L210,280"/>
+  </g>
+  <g>
+    <line class="link faint" x1="132" y1="145" x2="152" y2="142"/>
+    <line class="link faint" x1="135" y1="190" x2="168" y2="182"/>
+    <line class="link faint" x1="148" y1="105" x2="175" y2="112"/>
+    <line class="link faint" x1="150" y1="230" x2="168" y2="182"/>
+    <line class="link faint" x1="175" y1="78" x2="193" y2="96"/>
+    <line class="link faint" x1="178" y1="260" x2="192" y2="198"/>
+    <line class="link faint" x1="210" y1="65" x2="193" y2="96"/>
+    <line class="link faint" x1="210" y1="280" x2="229" y2="200"/>
+    <line class="link faint" x1="242" y1="260" x2="229" y2="200"/>
+    <line class="link faint" x1="245" y1="78" x2="236" y2="108"/>
+    <line class="link faint" x1="270" y1="230" x2="257" y2="181"/>
+    <line class="link faint" x1="272" y1="105" x2="236" y2="108"/>
+    <line class="link faint" x1="285" y1="190" x2="257" y2="181"/>
+    <line class="link faint" x1="288" y1="145" x2="267" y2="142"/>
+    <line class="link" x1="152" y1="142" x2="169" y2="160"/>
+    <line class="link" x1="152" y1="142" x2="174" y2="134"/>
+    <line class="link" x1="152" y1="142" x2="175" y2="112"/>
+    <line class="link" x1="168" y1="182" x2="169" y2="160"/>
+    <line class="link" x1="168" y1="182" x2="192" y2="198"/>
+    <line class="link" x1="168" y1="182" x2="194" y2="157"/>
+    <line class="link" x1="169" y1="160" x2="174" y2="134"/>
+    <line class="link" x1="169" y1="160" x2="194" y2="157"/>
+    <line class="link" x1="174" y1="134" x2="175" y2="112"/>
+    <line class="link" x1="174" y1="134" x2="193" y2="96"/>
+    <line class="link" x1="175" y1="112" x2="193" y2="96"/>
+    <line class="link" x1="192" y1="198" x2="210" y2="180"/>
+    <line class="link" x1="192" y1="198" x2="210" y2="230"/>
+    <line class="link" x1="193" y1="96" x2="214" y2="113"/>
+    <line class="link" x1="194" y1="157" x2="206" y2="137"/>
+    <line class="link" x1="194" y1="157" x2="210" y2="180"/>
+    <line class="link" x1="206" y1="137" x2="214" y2="113"/>
+    <line class="link" x1="206" y1="137" x2="228" y2="144"/>
+    <line class="link" x1="210" y1="180" x2="210" y2="230"/>
+    <line class="link" x1="210" y1="180" x2="229" y2="200"/>
+    <line class="link" x1="210" y1="180" x2="237" y2="165"/>
+    <line class="link" x1="210" y1="230" x2="210" y2="280"/>
+    <line class="link" x1="210" y1="230" x2="229" y2="200"/>
+    <line class="link" x1="214" y1="113" x2="236" y2="108"/>
+    <line class="link" x1="228" y1="144" x2="236" y2="108"/>
+    <line class="link" x1="228" y1="144" x2="237" y2="165"/>
+    <line class="link" x1="228" y1="144" x2="245" y2="130"/>
+    <line class="link" x1="228" y1="144" x2="267" y2="142"/>
+    <line class="link" x1="229" y1="200" x2="257" y2="181"/>
+    <line class="link" x1="236" y1="108" x2="245" y2="130"/>
+    <line class="link" x1="237" y1="165" x2="257" y2="181"/>
+    <line class="link" x1="237" y1="165" x2="267" y2="142"/>
+    <line class="link" x1="245" y1="130" x2="267" y2="142"/>
+    <line class="link" x1="257" y1="181" x2="267" y2="142"/>
+    <line class="link" x1="178" y1="260" x2="170" y2="295"/>
+    <line class="link" x1="242" y1="260" x2="250" y2="295"/>
+    <line class="link" x1="210" y1="280" x2="210" y2="305"/>
+    <line class="link" x1="170" y1="295" x2="210" y2="305"/>
+    <line class="link" x1="250" y1="295" x2="210" y2="305"/>
+    <line class="link" x1="170" y1="295" x2="110" y2="325"/>
+    <line class="link" x1="250" y1="295" x2="310" y2="325"/>
+    <line class="link" x1="110" y1="325" x2="55" y2="368"/>
+    <line class="link" x1="310" y1="325" x2="365" y2="368"/>
+    <line class="link" x1="55" y1="368" x2="210" y2="340"/>
+    <line class="link" x1="365" y1="368" x2="210" y2="340"/>
+    <line class="link" x1="210" y1="305" x2="210" y2="340"/>
   </g>
 
+  <!-- Varredura -->
+  <rect class="scan-glow" x="50" y="35" width="320" height="30"/>
+  <line class="scan" x1="50" y1="65" x2="370" y2="65"/>
 
-  <!-- ================================================= -->
-  <!-- TITLE -->
-  <!-- ================================================= -->
-
-  <text
-    x="210"
-    y="33"
-    text-anchor="middle"
-    font-family="Fira Code, monospace"
-    font-weight="700"
-    font-size="14"
-    letter-spacing="3"
-    fill="url(#titleGradient)"
-    filter="url(#textGlow)"
-  >
-    RYAN KENNEDY
-  </text>
-
-  <text
-    x="210"
-    y="46"
-    text-anchor="middle"
-    font-family="Fira Code, monospace"
-    font-size="7.5"
-    letter-spacing="2.5"
-    fill="#7FE9FF"
-    opacity="0.55"
-  >
-    // IDENTITY SCAN
-  </text>
-
-
-  <!-- ================================================= -->
-  <!-- HOLOGRAPHIC RINGS -->
-  <!-- ================================================= -->
-
-  <g
-    fill="none"
-    stroke="#00E5FF"
-    stroke-width="0.7"
-    opacity="0.15"
-  >
-
-    <circle cx="210" cy="165" r="105">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 210 165"
-        to="360 210 165"
-        dur="25s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle
-      cx="210"
-      cy="165"
-      r="88"
-      stroke-dasharray="4 9"
-    >
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="360 210 165"
-        to="0 210 165"
-        dur="18s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
+  <!-- Sinais -->
+  <g class="signals">
+    <circle class="signal" r="2.6"><animateMotion dur="3.4s" begin="0s" repeatCount="indefinite" path="M210,65 L193,96 L214,113 L206,137 L194,157 L210,180 L210,230 L210,280 L210,305 L210,340"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle class="signal" r="2.6"><animateMotion dur="4.2s" begin="1s" repeatCount="indefinite" path="M148,105 L175,112 L174,134 L169,160 L194,157 L210,180 L210,230 L210,280 L210,305 L170,295 L110,325 L55,368"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle class="signal" r="2.6"><animateMotion dur="4.6s" begin="2s" repeatCount="indefinite" path="M272,105 L236,108 L228,144 L237,165 L210,180 L210,230 L210,280 L210,305 L250,295 L310,325 L365,368"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.6s" begin="2s" repeatCount="indefinite"/></circle>
+    
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- HUMAN SILHOUETTE CONNECTIONS -->
-  <!-- ================================================= -->
-
-  <g
-    stroke="url(#connectionGradient)"
-    stroke-width="1"
-    opacity="0.48"
-  >
-
-    <!-- HEAD OUTLINE -->
-
-    <path d="M210 65 L175 78 L148 105 L132 145 L135 190 L150 230 L178 260 L210 280"/>
-
-    <path d="M210 65 L245 78 L272 105 L288 145 L285 190 L270 230 L242 260 L210 280"/>
-
-
-    <!-- BRAIN CONNECTIONS -->
-
-    <line x1="170" y1="115" x2="205" y2="95"/>
-    <line x1="205" y1="95" x2="245" y2="115"/>
-
-    <line x1="170" y1="115" x2="180" y2="155"/>
-    <line x1="245" y1="115" x2="240" y2="155"/>
-
-    <line x1="180" y1="155" x2="210" y2="135"/>
-    <line x1="240" y1="155" x2="210" y2="135"/>
-
-    <line x1="180" y1="155" x2="210" y2="180"/>
-    <line x1="240" y1="155" x2="210" y2="180"/>
-
-    <line x1="180" y1="155" x2="180" y2="205"/>
-    <line x1="240" y1="155" x2="240" y2="205"/>
-
-    <line x1="180" y1="205" x2="210" y2="180"/>
-    <line x1="240" y1="205" x2="210" y2="180"/>
-
-    <line x1="180" y1="205" x2="210" y2="230"/>
-    <line x1="240" y1="205" x2="210" y2="230"/>
-
-    <line x1="210" y1="135" x2="210" y2="180"/>
-    <line x1="210" y1="180" x2="210" y2="230"/>
-
-
-    <!-- NECK -->
-
-    <line x1="178" y1="260" x2="170" y2="295"/>
-    <line x1="242" y1="260" x2="250" y2="295"/>
-
-    <line x1="210" y1="280" x2="210" y2="305"/>
-
-
-    <!-- SHOULDERS -->
-
-    <line x1="170" y1="295" x2="110" y2="325"/>
-    <line x1="250" y1="295" x2="310" y2="325"/>
-
-    <line x1="110" y1="325" x2="55" y2="368"/>
-    <line x1="310" y1="325" x2="365" y2="368"/>
-
-    <line x1="55" y1="368" x2="210" y2="340"/>
-    <line x1="365" y1="368" x2="210" y2="340"/>
-
+  <!-- Nós -->
+  <g>
+    <circle class="node" style="animation-delay:1.34s" cx="132" cy="145" r="4"/>
+    <circle class="node" style="animation-delay:2.09s" cx="135" cy="190" r="4"/>
+    <circle class="node" style="animation-delay:0.67s" cx="148" cy="105" r="4"/>
+    <circle class="node" style="animation-delay:2.76s" cx="150" cy="230" r="4"/>
+    <circle class="node" style="animation-delay:0.22s" cx="175" cy="78" r="4"/>
+    <circle class="node" style="animation-delay:3.26s" cx="178" cy="260" r="4"/>
+    <circle class="node" style="animation-delay:0.0s" cx="210" cy="65" r="4"/>
+    <circle class="node" style="animation-delay:3.6s" cx="210" cy="280" r="4"/>
+    <circle class="node" style="animation-delay:3.26s" cx="242" cy="260" r="4"/>
+    <circle class="node" style="animation-delay:0.22s" cx="245" cy="78" r="4"/>
+    <circle class="node" style="animation-delay:2.76s" cx="270" cy="230" r="4"/>
+    <circle class="node" style="animation-delay:0.67s" cx="272" cy="105" r="4"/>
+    <circle class="node" style="animation-delay:2.09s" cx="285" cy="190" r="4"/>
+    <circle class="node" style="animation-delay:1.34s" cx="288" cy="145" r="4"/>
+    <circle class="node" style="animation-delay:3.85s" cx="170" cy="295" r="4"/>
+    <circle class="node" style="animation-delay:3.85s" cx="250" cy="295" r="4"/>
+    <circle class="node" style="animation-delay:4.01s" cx="210" cy="305" r="4"/>
+    <circle class="node" style="animation-delay:4.35s" cx="110" cy="325" r="4"/>
+    <circle class="node" style="animation-delay:4.35s" cx="310" cy="325" r="4"/>
+    <circle class="node" style="animation-delay:5.07s" cx="55" cy="368" r="4"/>
+    <circle class="node" style="animation-delay:5.07s" cx="365" cy="368" r="4"/>
+    <circle class="node" style="animation-delay:4.6s" cx="210" cy="340" r="4"/>
+    <circle class="node neuron" style="animation-delay:0.52s" cx="193" cy="96" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:0.72s" cx="236" cy="108" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:0.79s" cx="175" cy="112" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:0.8s" cx="214" cy="113" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.09s" cx="245" cy="130" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.15s" cx="174" cy="134" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.2s" cx="206" cy="137" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.29s" cx="267" cy="142" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.29s" cx="152" cy="142" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.32s" cx="228" cy="144" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.54s" cx="194" cy="157" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.59s" cx="169" cy="160" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.67s" cx="237" cy="165" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.94s" cx="257" cy="181" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:1.96s" cx="168" cy="182" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:2.22s" cx="192" cy="198" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:2.26s" cx="229" cy="200" r="4.5"/>
+    <circle class="node neuron" style="animation-delay:2.76s" cx="210" cy="230" r="6"/>
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- OUTLINE NODES -->
-  <!-- ================================================= -->
-
-  <g
-    fill="url(#cyanGradient)"
-    filter="url(#glow)"
-  >
-
-    <!-- HEAD -->
-
-    <circle cx="210" cy="65" r="4"/>
-
-    <circle cx="175" cy="78" r="3.5"/>
-    <circle cx="245" cy="78" r="3.5"/>
-
-    <circle cx="148" cy="105" r="4"/>
-    <circle cx="272" cy="105" r="4"/>
-
-    <circle cx="132" cy="145" r="4"/>
-    <circle cx="288" cy="145" r="4"/>
-
-    <circle cx="135" cy="190" r="4"/>
-    <circle cx="285" cy="190" r="4"/>
-
-    <circle cx="150" cy="230" r="4"/>
-    <circle cx="270" cy="230" r="4"/>
-
-    <circle cx="178" cy="260" r="4"/>
-    <circle cx="242" cy="260" r="4"/>
-
-    <circle cx="210" cy="280" r="4"/>
-
-
-    <!-- SHOULDERS -->
-
-    <circle cx="170" cy="295" r="4"/>
-    <circle cx="250" cy="295" r="4"/>
-
-    <circle cx="110" cy="325" r="4"/>
-    <circle cx="310" cy="325" r="4"/>
-
-    <circle cx="55" cy="368" r="4"/>
-    <circle cx="365" cy="368" r="4"/>
-
-    <circle cx="210" cy="340" r="4"/>
-
+  <!-- Núcleo -->
+  <g>
+    <circle class="pulse" cx="210" cy="180" r="22"/>
+    <circle class="core-ring" cx="210" cy="180" r="14" style="filter:url(#glow-strong)"/>
+    <circle class="core" cx="210" cy="180" r="7" style="filter:url(#glow-strong)"/>
   </g>
 
-
-  <!-- ================================================= -->
-  <!-- NEURAL BRAIN NODES -->
-  <!-- ================================================= -->
-
-  <g
-    fill="url(#cyanGradient)"
-    filter="url(#strongGlow)"
-  >
-
-    <!-- TOP BRAIN -->
-
-    <circle cx="205" cy="95" r="5">
-      <animate
-        attributeName="r"
-        values="4;6;4"
-        dur="2s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-
-    <!-- LEFT -->
-
-    <circle cx="170" cy="115" r="5">
-      <animate
-        attributeName="r"
-        values="4;6;4"
-        dur="2.2s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="180" cy="155" r="5">
-      <animate
-        attributeName="r"
-        values="4;7;4"
-        dur="1.8s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="180" cy="205" r="5">
-      <animate
-        attributeName="r"
-        values="4;6.5;4"
-        dur="2.4s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-
-    <!-- RIGHT -->
-
-    <circle cx="245" cy="115" r="5">
-      <animate
-        attributeName="r"
-        values="4;6;4"
-        dur="2.1s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="240" cy="155" r="5">
-      <animate
-        attributeName="r"
-        values="4;7;4"
-        dur="1.9s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-    <circle cx="240" cy="205" r="5">
-      <animate
-        attributeName="r"
-        values="4;6.5;4"
-        dur="2.3s"
-        repeatCount="indefinite"
-      />
-    </circle>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- CENTRAL AI CORE -->
-  <!-- ================================================= -->
-
-  <g filter="url(#strongGlow)">
-
-    <!-- PULSE RING -->
-
-    <circle
-      cx="210"
-      cy="180"
-      r="30"
-      fill="none"
-      stroke="#00E5FF"
-      stroke-width="1"
-      opacity="0.5"
-    >
-
-      <animate
-        attributeName="r"
-        values="22;38;22"
-        dur="2.8s"
-        repeatCount="indefinite"
-      />
-
-      <animate
-        attributeName="opacity"
-        values="0.5;0;0.5"
-        dur="2.8s"
-        repeatCount="indefinite"
-      />
-
-    </circle>
-
-
-    <!-- CORE OUTER -->
-
-    <circle
-      cx="210"
-      cy="180"
-      r="14"
-      fill="#07151E"
-      stroke="#00E5FF"
-      stroke-width="1.5"
-    />
-
-
-    <!-- CORE -->
-
-    <circle
-      cx="210"
-      cy="180"
-      r="7"
-      fill="url(#cyanGradient)"
-    >
-
-      <animate
-        attributeName="r"
-        values="6;9;6"
-        dur="1.5s"
-        repeatCount="indefinite"
-      />
-
-    </circle>
-
-  </g>
-
-
-  <!-- LOWER PROCESSING NODE -->
-
-  <circle
-    cx="210"
-    cy="230"
-    r="6"
-    fill="url(#cyanGradient)"
-    filter="url(#strongGlow)"
-  >
-
-    <animate
-      attributeName="r"
-      values="5;8;5"
-      dur="1.7s"
-      repeatCount="indefinite"
-    />
-
-  </circle>
-
-
-  <!-- ================================================= -->
-  <!-- DATA SIGNALS -->
-  <!-- ================================================= -->
-
-  <g
-    fill="#FFFFFF"
-    filter="url(#strongGlow)"
-  >
-
-    <!-- SIGNAL 1 -->
-
-    <circle r="2.8">
-
-      <animateMotion
-        dur="3.4s"
-        repeatCount="indefinite"
-        path="M210,65 L205,95 L210,135 L210,180 L210,230 L210,280 L210,340"
-      />
-
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        dur="3.4s"
-        repeatCount="indefinite"
-      />
-
-    </circle>
-
-
-    <!-- SIGNAL 2 -->
-
-    <circle r="2.5">
-
-      <animateMotion
-        dur="4.2s"
-        begin="1s"
-        repeatCount="indefinite"
-        path="M148,105 L170,115 L180,155 L210,180 L240,205 L210,230 L170,295 L110,325 L55,368"
-      />
-
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        dur="4.2s"
-        begin="1s"
-        repeatCount="indefinite"
-      />
-
-    </circle>
-
-
-    <!-- SIGNAL 3 -->
-
-    <circle r="2.5">
-
-      <animateMotion
-        dur="4.6s"
-        begin="2s"
-        repeatCount="indefinite"
-        path="M272,105 L245,115 L240,155 L210,180 L180,205 L210,230 L250,295 L310,325 L365,368"
-      />
-
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0"
-        dur="4.6s"
-        begin="2s"
-        repeatCount="indefinite"
-      />
-
-    </circle>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- SCANNING LINE -->
-  <!-- ================================================= -->
-
-  <line
-    x1="105"
-    y1="180"
-    x2="315"
-    y2="180"
-    stroke="#00E5FF"
-    stroke-width="0.7"
-    opacity="0"
-  >
-
-    <animate
-      attributeName="opacity"
-      values="0;0.5;0"
-      dur="3s"
-      repeatCount="indefinite"
-    />
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0,-70;0,70;0,-70"
-      dur="5s"
-      repeatCount="indefinite"
-    />
-
-  </line>
-
-
-  <!-- ================================================= -->
-  <!-- STATUS TEXT -->
-  <!-- ================================================= -->
-
-  <g
-    font-family="Fira Code, monospace"
-    font-size="7"
-    fill="#00E5FF"
-    opacity="0.45"
-  >
-
-    <text x="40" y="60">
-      NEURAL_NETWORK
-    </text>
-
-    <text x="335" y="60">
-      ONLINE
-    </text>
-
-    <text x="150" y="315">
-      PROCESSING
-    </text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- BOTTOM STATUS ROW -->
-  <!-- ================================================= -->
-
-  <g font-family="Fira Code, monospace" font-size="7.5" fill="#4DE8FF" opacity="0.55">
-
-    <circle cx="26" cy="392" r="2.5" fill="#3CFF7A"/>
-    <text x="34" y="395">STATUS: ONLINE</text>
-
-    <text x="358" y="395">v2.0.26</text>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- FOOTER -->
-  <!-- ================================================= -->
-
-  <text
-    x="210"
-    y="405"
-    text-anchor="middle"
-    font-family="Fira Code, monospace"
-    font-size="11"
-    letter-spacing="0.5"
-    fill="#00E5FF"
-  >
-
-    neural_signature.load()
-
-    <animate
-      attributeName="opacity"
-      values="0.45;1;0.45"
-      dur="3.5s"
-      repeatCount="indefinite"
-    />
-
-  </text>
-
+  <!-- Rodapé: tudo na mesma linha -->
+  <circle cx="34" cy="397" r="2.5" style="fill:var(--c-ok)"/>
+  <text class="t status" x="42" y="400">STATUS: ONLINE</text>
+  <text class="t footer" x="210" y="401" text-anchor="middle">neural_signature.load()</text>
+  <text class="t status" x="386" y="400" text-anchor="end">v2.0.26</text>
 </svg>

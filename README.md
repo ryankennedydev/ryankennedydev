@@ -4,7 +4,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&width=640&height=44&lines=COMPUTER+SCIENCE+STUDENT;EXPLORING+AI+%7C+AWS+%7C+CYBERSECURITY;BUILDING+INTELLIGENT+SYSTEMS"
-  alt="Computer Science Student • Exploring AI, AWS e Cybersecurity • Building intelligent systems"
+  alt="Computer Science Student • Exploring AI, NODEJS• Building intelligent systems"
 />
 
 <br/>

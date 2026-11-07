@@ -72,8 +72,6 @@
 ### Currently Exploring
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-0d1626?style=for-the-badge&logoColor=00E5FF&labelColor=00E5FF&label=%20" alt="Artificial Intelligence" height="28"/>
-<img src="https://img.shields.io/badge/AWS-0d1626?style=for-the-badge&labelColor=00E5FF&label=%20" alt="AWS" height="28"/>
-<img src="https://img.shields.io/badge/Cybersecurity-0d1626?style=for-the-badge&labelColor=00E5FF&label=%20" alt="Cybersecurity" height="28"/>
 
 </div>
 
